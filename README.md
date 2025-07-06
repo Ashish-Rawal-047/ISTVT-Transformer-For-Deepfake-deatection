@@ -44,7 +44,7 @@ To develop a robust and interpretable system for detecting deepfake videos by le
 
 ## 📊 Results
 
-- Achieved test **accuracy of [insert]%** and **AUC of [insert]%** on [e.g., FaceForensics++] dataset.
+- Achieved test **accuracy of [94]%** and **AUC of [0.864]%** on [ FaceForensics++] dataset.
 - Model consistently focused on manipulated facial areas such as **eyes, mouth**, and **jawline**.
 - Detected **temporal anomalies** like unnatural blinking or inconsistent expressions.
 - Generalized well across different compression levels and unseen video samples.
